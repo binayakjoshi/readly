@@ -6,7 +6,7 @@
 - [Installation](#installation)
 - [Database Setup](#database-setup)
 - [Running the App](#running-the-app)
-- [Usage](#usage)
+
 ## Overview
 **Readly** is a simple bookstore application with minimalistic UI built using Java Servlets, Tomcat server, and MariaDB. Users can browse books, add them to their cart and place order.The app handles user authentication, inventory management.
 ## Features
